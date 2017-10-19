@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    margin: 100px;
+    padding-left: 200px
+    
+}
+body{
+    background-color: rgb(50, 100, 100)
+
+}
+
+p {
+    font-family: Verdana;
+    font-family: 'Chewy', cursive;
+    color: white;
+    
+}
+
+li {
+    font-family: 'Chewy', cursive;    
+    border: 10px solid orangered;
+    margin: 50px;
+    background: white;
+    width: 100px;
+    margin-right: 100px;
+    padding-left: 20px
+}
